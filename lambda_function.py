@@ -1,4 +1,3 @@
-import json
 import pyotp
 import datetime
 import time
